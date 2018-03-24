@@ -2,16 +2,9 @@ import os,sys,itertools
 import tensorflow as tf
 import keras as kr
 
-class define_robot():
-    def __init__(self,sentence,word,meaning):
-        self.sentence=sentence
-        self.word=word
-        self.meaning=meaning
 
-    @staticmethod
-    def word_for_train(x):
+path=""
 
-
-
-class define_talk_robot():
+class import_data():
     def __init__(self):
+        self

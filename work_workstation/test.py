@@ -1,3 +1,6 @@
-# company scripts
 
-# test for second git
+x=[1,2,4,5,6,8,10,9,4,2]
+y=[123,456,23,67,9,108,67]
+xy=x+y
+for i in range(0,len(xy)):
+    
